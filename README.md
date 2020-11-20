@@ -1,6 +1,6 @@
 ### Hi there, I am Minsu Lee 👋
 
-I'am a problem solver and software engineer living in Seoul.
+### I'am a problem solver and software engineer living in Seoul.
 
 - 🔭 I’m currently working at **PassionFactory**.
 
