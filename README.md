@@ -5,9 +5,9 @@
 - 🔭 I’m currently working at **PassionFactory**.
 - Contributing 
   - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)
-  - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-  - [mobx.dart](https://github.com/mobxjs/mobx.dart)
-  - [vercel-action](https://github.com/amondnet/vercel-action)
+  - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - Members of Technical Committee ( dart )
+  - [mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer
+  - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer
 
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
