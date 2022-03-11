@@ -3,6 +3,11 @@
 ### I'am a problem solver and software engineer living in Seoul.
 
 - 🔭 I’m currently working at **PassionFactory**.
+- Contributing 
+  - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)
+  - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+  - [mobx.dart](https://github.com/mobxjs/mobx.dart)
+  - [vercel-action](https://github.com/amondnet/vercel-action)
 
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,17 +29,17 @@ Here are some ideas to get you started:
 ---
 ### Languages & Tools
 
-[<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][https://github.com/topics/dart]
-[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][https://github.com/topics/flutter]
-[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/kotlin/kotlin.png" />][https://github.com/topics/kotlin]
-[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/spring-boot/spring-boot.png" />][https://github.com/topics/spring-boot]
-[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />][https://github.com/topics/mongodb]
-[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][https://github.com/topics/typescript]
-[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />][https://github.com/topics/angular]
-[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/main/topics/vue/vue.png" />][https://github.com/topics/vue]
-[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />][https://github.com/topics/docker]
-[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" />][https://github.com/topics/kubernetes]
-[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][https://github.com/topics/graphql]
+[<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/kotlin/kotlin.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/spring-boot/spring-boot.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/main/topics/vue/vue.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][website]
 <br />
 <br />
 
