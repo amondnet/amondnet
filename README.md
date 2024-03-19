@@ -9,6 +9,7 @@
   - [mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer
   - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer
   - [spring-graphql](https://github.com/spring-projects/spring-graphql)
+  - [AutoParams](https://github.com/AutoParams/AutoParams)
 
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
