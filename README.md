@@ -6,9 +6,9 @@
 - Contributing 
   - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)
   - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - Members of Technical Committee ( dart )
-  - [mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer
+  - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer
   - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer
-  - [spring-graphql](https://github.com/spring-projects/spring-graphql)
+  - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql)
   - [AutoParams](https://github.com/AutoParams/AutoParams)
 
 <!--
