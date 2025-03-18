@@ -10,7 +10,7 @@
   - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer
   - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql)
   - [AutoParams](https://github.com/AutoParams/AutoParams)
-
+  - [komapper](https://github.com/komapper/komapper)
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
