@@ -5,6 +5,7 @@
 - 🔭 I’m currently working at **PassionFactory**.
 - Contributing 
   - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)
+  - [Netflix/dgs-codegen](https://github.com/Netflix/dgs-codegen)
   - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - Members of Technical Committee ( dart )
   - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer
   - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer
