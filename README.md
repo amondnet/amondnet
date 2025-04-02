@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-![amond's github stats](https://github-readme-stats.vercel.app/api?username=amondnet&show_icons=true&count_private=true)
+![amond's github stats](https://github-readme-stats-amond.vercel.app/api?username=amondnet&show_icons=true&count_private=true)
 
 ---
 ### Languages & Tools
