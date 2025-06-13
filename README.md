@@ -12,6 +12,7 @@
   - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql)
   - [AutoParams](https://github.com/AutoParams/AutoParams)
   - [komapper](https://github.com/komapper/komapper)
+  - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
