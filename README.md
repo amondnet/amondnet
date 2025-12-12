@@ -15,7 +15,8 @@
   - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
   - [github/spec-kit](https://github.com/github/spec-kit)
   - [firebase/genkit](https://github.com/firebase/genkit)
-
+  - [h3js/h3](https://github.com/h3js/h3)
+    
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
