@@ -4,19 +4,19 @@
 
 - 🔭 I’m currently working at **PassionFactory**.
 - Contributing 
-  - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [![GitHub stars](https://img.shields.io/github/stars/Netflix/dgs-framework?style=social)](https://github.com/Netflix/dgs-framework/stargazers)
-  - [Netflix/dgs-codegen](https://github.com/Netflix/dgs-codegen) [![GitHub stars](https://img.shields.io/github/stars/Netflix/dgs-codegen?style=social)](https://github.com/Netflix/dgs-codegen/stargazers)
-  - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - Members of Technical Committee ( dart ) [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social)](https://github.com/OpenAPITools/openapi-generator/stargazers)
-  - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer [![GitHub stars](https://img.shields.io/github/stars/mobxjs/mobx.dart?style=social)](https://github.com/mobxjs/mobx.dart/stargazers)
-  - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer [![GitHub stars](https://img.shields.io/github/stars/amondnet/vercel-action?style=social)](https://github.com/amondnet/vercel-action/stargazers)
-  - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-graphql?style=social)](https://github.com/spring-projects/spring-graphql/stargazers)
-  - [AutoParams](https://github.com/AutoParams/AutoParams) [![GitHub stars](https://img.shields.io/github/stars/AutoParams/AutoParams?style=social)](https://github.com/AutoParams/AutoParams/stargazers)
-  - [komapper](https://github.com/komapper/komapper) [![GitHub stars](https://img.shields.io/github/stars/komapper/komapper?style=social)](https://github.com/komapper/komapper/stargazers)
-  - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=social)](https://github.com/anthropics/claude-code-action/stargazers)
-  - [github/spec-kit](https://github.com/github/spec-kit) [![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=social)](https://github.com/github/spec-kit/stargazers)
-  - [firebase/genkit](https://github.com/firebase/genkit) [![GitHub stars](https://img.shields.io/github/stars/firebase/genkit?style=social)](https://github.com/firebase/genkit/stargazers)
-  - [h3js/h3](https://github.com/h3js/h3) [![GitHub stars](https://img.shields.io/github/stars/h3js/h3?style=social)](https://github.com/h3js/h3/stargazers)
-  - [oxc-project/oxc](https://github.com/oxc-project/oxc) [![GitHub stars](https://img.shields.io/github/stars/oxc-project/oxc?style=social)](https://github.com/oxc-project/oxc/stargazers)
+  - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [![GitHub stars](https://badgen.net/github/stars/Netflix/dgs-framework)](https://github.com/Netflix/dgs-framework/stargazers)
+  - [Netflix/dgs-codegen](https://github.com/Netflix/dgs-codegen) [![GitHub stars](https://badgen.net/github/stars/Netflix/dgs-codegen)](https://github.com/Netflix/dgs-codegen/stargazers)
+  - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - Members of Technical Committee ( dart ) [![GitHub stars](https://badgen.net/github/stars/OpenAPITools/openapi-generator)](https://github.com/OpenAPITools/openapi-generator/stargazers)
+  - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - Maintainer [![GitHub stars](https://badgen.net/github/stars/mobxjs/mobx.dart)](https://github.com/mobxjs/mobx.dart/stargazers)
+  - [vercel-action](https://github.com/amondnet/vercel-action) - Maintainer [![GitHub stars](https://badgen.net/github/stars/amondnet/vercel-action)](https://github.com/amondnet/vercel-action/stargazers)
+  - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) [![GitHub stars](https://badgen.net/github/stars/spring-projects/spring-graphql)](https://github.com/spring-projects/spring-graphql/stargazers)
+  - [AutoParams](https://github.com/AutoParams/AutoParams) [![GitHub stars](https://badgen.net/github/stars/AutoParams/AutoParams)](https://github.com/AutoParams/AutoParams/stargazers)
+  - [komapper](https://github.com/komapper/komapper) [![GitHub stars](https://badgen.net/github/stars/komapper/komapper)](https://github.com/komapper/komapper/stargazers)
+  - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) [![GitHub stars](https://badgen.net/github/stars/anthropics/claude-code-action)](https://github.com/anthropics/claude-code-action/stargazers)
+  - [github/spec-kit](https://github.com/github/spec-kit) [![GitHub stars](https://badgen.net/github/stars/github/spec-kit)](https://github.com/github/spec-kit/stargazers)
+  - [firebase/genkit](https://github.com/firebase/genkit) [![GitHub stars](https://badgen.net/github/stars/firebase/genkit)](https://github.com/firebase/genkit/stargazers)
+  - [h3js/h3](https://github.com/h3js/h3) [![GitHub stars](https://badgen.net/github/stars/h3js/h3)](https://github.com/h3js/h3/stargazers)
+  - [oxc-project/oxc](https://github.com/oxc-project/oxc) [![GitHub stars](https://badgen.net/github/stars/oxc-project/oxc)](https://github.com/oxc-project/oxc/stargazers)
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
