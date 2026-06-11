@@ -1,0 +1,19 @@
+README.md
+  s_806b4a260d03d3::t_f27a51ad311a56 7-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "29554b7f40df70217a757ffe8a594761b1d66306",
+  "prompts": {},
+  "sessions": {
+    "s_806b4a260d03d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1ba334c9-1638-4998-83b5-42bc42929ccc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
