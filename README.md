@@ -17,6 +17,7 @@
   - [firebase/genkit](https://github.com/firebase/genkit) [![GitHub stars](https://img.shields.io/github/stars/firebase/genkit?style=flat&logo=github)](https://github.com/firebase/genkit/stargazers)
   - [h3js/h3](https://github.com/h3js/h3) [![GitHub stars](https://img.shields.io/github/stars/h3js/h3?style=flat&logo=github)](https://github.com/h3js/h3/stargazers)
   - [oxc-project/oxc](https://github.com/oxc-project/oxc) [![GitHub stars](https://img.shields.io/github/stars/oxc-project/oxc?style=flat&logo=github)](https://github.com/oxc-project/oxc/stargazers)
+  - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) [![GitHub stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat&logo=github)](https://github.com/alibaba/open-code-review/stargazers)
 <!--
 **amondnet/amondnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
