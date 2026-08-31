@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Minsu Lee&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 934, Total Commits  (last year) : 10127, Total PRs: 10007, Total Issues: 5588, Contributed to (last year): 208</desc>
+        <desc id="descId">Total Stars Earned: 934, Total Commits  (last year) : 10066, Total PRs: 10019, Total Issues: 5597, Contributed to (last year): 208</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.394038475956056;
+        stroke-dashoffset: 6.39403847596102;
       }
     }
   
